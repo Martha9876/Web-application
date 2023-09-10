@@ -1,9 +1,6 @@
-                              Equip Footwear
+                   Develop Diagnositic Test
 
-The scope of the project is to develop a functioning e-commerce website for the company 'Equip Footwear’.
-
-Equip Footwear’ specialises in retailing footwear for the sports: football, running, hiking, tennis, and climbing.
-
+The development of this diagnostic tool will help a diagnoitic test designer to create a quiz.
 
 # Getting Started with Create React App
 
@@ -75,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
