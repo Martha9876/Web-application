@@ -1,4 +1,4 @@
-                   Develop Diagnositic Test
+                   Develop Diagnostic Test
 
 The development of this diagnostic tool will help a diagnoitic test designer to create a quiz.
 
