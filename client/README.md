@@ -1,4 +1,4 @@
-                              Equip Footwear
+                                           Develop Diagnostic Test
 
 The scope of the project is to develop a functioning e-commerce website for the company 'Equip Footwear’.
 
