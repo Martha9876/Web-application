@@ -1,0 +1,84 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'roboto', sans-serif;
+}
+.Start-quiz {
+  padding: 5rem 0;
+}
+
+.h1 {
+font-size: 8rem;
+font-weight: bold;
+
+
+}
+
+.cnav{float: right;
+margin-right: 20px;
+
+
+}
+
+.code-nav1  ul li a{
+  width: 100%;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+  background-color: #214529;
+  transition: background-color 0.2s ease-in-out;
+  
+
+}
+.h3 {
+  
+  font-size: 6rem;
+  font-weight: bold;
+
+  }
+.Quiz-start {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  width: 100%;
+  margin-top: 50px;
+  text-align: center;
+}
+
+
+      .cont {
+        border-radius: 50px;
+        background-color: #f2f2f2;
+        padding: 100px;
+      }
+.btn {
+  padding: 15px 40px;
+  margin-right: 10px;
+  outline:none;
+  border:1px solid #fcfafa;
+  border-radius: 20px;
+  cursor: pointer;
+  color: #111010;
+
+
+}
+
+  span6 {
+
+   padding-left: 270px;
+   text-align: center;
+  }
+  .left-colomon p{
+    font-size: 15px;
+    color: #fff;
+    margin: 50px 0;
+    }
+
+    
