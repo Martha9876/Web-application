@@ -5,6 +5,12 @@ import "./App.css";
 //import "./Home.css";
 import { Routes, Route } from "react-router-dom";
 import Page1 from "./pages/Page1/Page1.js";
+import Page11 from "./pages/Page11/Page11.js";
+import Page111 from "./pages/Page111/Page111.js";
+import Page1111 from "./pages/Page1111/Page1111.js";
+import Page11111 from "./pages/Page11111/Page11111.js";
+import Page111111 from "./pages/Page111111/Page111111.js";
+
 import Page21 from "./pages/Page21/Page21.js";
 import Page22 from "./pages/Page22/Page22.js";
 import Page23 from "./pages/Page23/Page23.js";
@@ -103,6 +109,12 @@ function App() {
       <Route path="/" element={<Home />} />
       <Route path="/start" element={<Start />} />
       <Route path="/Page1" element={<Page1 />} />
+      <Route path="/Page11" element={<Page11 />} />
+      <Route path="/Page111" element={<Page111 />} />
+      <Route path="/Page1111" element={<Page1111 />} />
+      <Route path="/Page11111" element={<Page11111 />} />
+      <Route path="/Page111111" element={<Page111111 />} />
+
       <Route path="/Page21" element={<Page21 />} />
       <Route path="/Page22" element={<Page22 />} />
       <Route path="/Page2121" element={<Page2121 />} />
