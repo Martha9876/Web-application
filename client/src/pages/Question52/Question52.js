@@ -81,7 +81,7 @@ function Question52 (){
        
           <h4>Question 5</h4>
           <br/>
-          <div  className="cnav"><a href="/question21" className="btn btn-secondary ">New Question</a>
+          <div  className="cnav"><a href="/question12" className="btn btn-secondary ">New Question</a>
        
        </div>
           <br/>
